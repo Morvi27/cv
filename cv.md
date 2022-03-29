@@ -14,3 +14,14 @@ I want to become a frontend developer
 * CSS
 * JavaScript(Basic)
 * Git
+## Code Example
+***
+## Experience
+***
+## Education
+***
+* **University:** BSUIR, second-year student, software engineer
+* **UX/UI courses**
+## Language 
+***
+* **English:** Intermediate
